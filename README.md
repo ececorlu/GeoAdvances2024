@@ -1,2 +1,2 @@
 # GeoAdvances2024
-Visibility Analysis using BIM GIS Integration
+The documents of the article "Visibility Analysis using BIM GIS Integration"
