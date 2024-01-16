@@ -10,7 +10,7 @@ You need to create 3 different rvt file, since cadastral data is divided into 3 
 
 To create each revit file
 
-1- Eyup_maim.rvt file is the template of BIM file. research area 1 can be created from this file. 
+1- Eyup_maim.rvt file is the template of BIM file. research area 1 can be created from this file. Eyup_template.rvt file is the template of osm2 and osm 3 files. research area 2 and 3 can be created on this file.  
 
 2- To create GIS in BIM run osm.dyn file in BIM visual programming. the cadastral data information is gathered from the OSM file, topography is created from tiff file. To create each file osm file needed to be changed. 
 
