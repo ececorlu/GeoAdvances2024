@@ -6,7 +6,7 @@ Revit files are used as BIM software. [.rvt] is the extension of this software. 
 
 To create the document files from scratch the GIS cadastral data information is gathered from the OSM file, topography is created from USGS SRTM Data, that has tiff extension. Rvt file is the template of BIM file. To create GIS in BIM dyn files run in BIM using osm files and tiff file. After creating the files, files are combined and visual analysis is done using "Eyup_visual openness indexes.dyn" file in the combined Revit file. 
 
-**TLDR**
+**TL;DR**
 
 ABSTRACT: 
 
