@@ -6,13 +6,21 @@ Revit files are used as BIM software. [.rvt] is the extension of this software. 
 
 To create the document files from scratch 
 1- Rvt file is the template of BIM file. 
+
 2- To create GIS in BIM dyn files run in BIM using osm files and tiff file.the cadastral data information is gathered from the OSM file, topography is created from tiff file.
+
 2- After creating the files, files are combined
+
 3- visual analysis is done using "Eyup_visual openness indexes.dyn" file in the combined Revit file. 
-4- A person located in the front facade 2. elevation is chosen as an observer. And the view distances are chosen first 50 m then 150 m in the arcticle.
-5- A person located in the front facade 4. elevation is chosen as an observer. And the view distances are chosen first 50 m then 150 m in the article.
-6- A person located in the rear facade 2. elevation is chosen as an observer. And the view distances are chosen first 50 m then 150 m in the arcticle.
-7- A person located in the rear facade 4. elevation is chosen as an observer. And the view distances are chosen first 50 m then 150 m in the article.
+
+4- A person located in the front facade 2. elevation is chosen as an observer. And the view distances are chosen first 50 m and then 150 m in the article.
+
+5- A person located in the front facade 4. elevation is chosen as an observer. And the view distances are chosen first 50 m and then 150 m in the article.
+
+6- A person located in the rear facade 2. elevation is chosen as an observer. And the view distances are chosen first 50 m and then 150 m in the article.
+
+7- A person located in the rear facade 4. elevation is chosen as an observer. And the view distances are chosen first 50 m and then 150 m in the article.
+
 
 **TL;DR**
 
