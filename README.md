@@ -2,11 +2,21 @@
 The documents of the article "Visibility Analyses using BIM-GIS Integration"
 In this article, in BIM GIS information is modeled. Then visibility analysis is done. The files are located in this repository.
 
-Revit files are used as BIM software. [.rvt] is the extension of this software.  In Revit, Dynamo is a visual programming software allowing users to write code using nodes. [.dyn] is the extension of this software. In Revit, elements are defined as family, then this family can used in different Revit files as an object. Family is created in .rfa extension. In this article, trees are created from the [Tree.rfa] family. OSM files provide GIS information and are used in Dynamo. [.osm] is the extension of this file.
+Revit files are used as BIM software. [.rvt] is the extension of this software.  In Revit, Dynamo is a visual programming software allowing users to write code using nodes. [.dyn] is the extension of this software. In Revit, elements are defined as family, then this family can downloaded in different Revit files as an object. Family is created in .rfa extension. In this article, trees are created from the [Tree.rfa] family. OSM files provide cadastral data and are used in to create GIS in Revit using Dynamo. [.osm] is the extension of this file. Topography is created from USGS SRTM Data, which has tiff extension.
 
-To create the document files from scratch the GIS cadastral data information is gathered from the OSM file, topography is created from USGS SRTM Data, that has tiff extension. Rvt file is the template of BIM file. To create GIS in BIM dyn files run in BIM using osm files and tiff file. After creating the files, files are combined and visual analysis is done using "Eyup_visual openness indexes.dyn" file in the combined Revit file. 
+To create the document files from scratch 
+1- Rvt file is the template of BIM file. 
+2- To create GIS in BIM dyn files run in BIM using osm files and tiff file.the cadastral data information is gathered from the OSM file, topography is created from tiff file.
+2- After creating the files, files are combined
+3- visual analysis is done using "Eyup_visual openness indexes.dyn" file in the combined Revit file. 
+4- A person located in the front facade 2. elevation is chosen as an observer. And the view distances are chosen first 50 m then 150 m in the arcticle.
+5- A person located in the front facade 4. elevation is chosen as an observer. And the view distances are chosen first 50 m then 150 m in the article.
+6- A person located in the rear facade 2. elevation is chosen as an observer. And the view distances are chosen first 50 m then 150 m in the arcticle.
+7- A person located in the rear facade 4. elevation is chosen as an observer. And the view distances are chosen first 50 m then 150 m in the article.
 
 **TL;DR**
+
+The article abstract is written below.
 
 ABSTRACT: 
 
