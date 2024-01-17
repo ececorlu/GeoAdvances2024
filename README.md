@@ -4,6 +4,7 @@ In this article, in BIM GIS information is modeled. Then visibility analysis is 
 
 Revit files are used as BIM software. [.rvt] is the extension of this software.  In Revit, Dynamo is a visual programming software allowing users to write code using nodes. [.dyn] is the extension of this software. In Revit, elements are defined as family, then this family can downloaded in different Revit files as an object. Family is created in .rfa extension. In this article, trees are created from the [Tree.rfa] family. OSM files provide cadastral data and are used in to create GIS in Revit using Dynamo. [.osm] is the extension of this file. Topography is created from USGS SRTM Data, which has tiff extension.
 <br />
+
 **To create the document files from scratch**
 
 You need to create 3 different rvt file, since cadastral data is divided into 3 to reduce file sizes. OSM 1 is main research area, osm 2 and 3 are areas located near the research area. Each is created separately then using buildins move files according to their exact location.
@@ -31,6 +32,7 @@ to reach the final model use the link below.
 https://drive.google.com/file/d/1pF4S1SGk7Z_zntAAqtv44gE5OTMOCgtq/view?usp=sharing
 
 <br />
+
 **TL;DR**
 
 The article abstract is written below.
