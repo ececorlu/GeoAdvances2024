@@ -26,7 +26,8 @@ To create each revit file
 
 8- A person located in the rear facade 4. elevation is chosen as an observer. And the view distances are chosen first 50 m and then 150 m in the article.
 
-
+to reach the final model use the link below. 
+https://drive.google.com/file/d/1pF4S1SGk7Z_zntAAqtv44gE5OTMOCgtq/view?usp=sharing
 **TL;DR**
 
 The article abstract is written below.
