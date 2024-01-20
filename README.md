@@ -31,7 +31,7 @@ To create each revit file
 
 **To reach the final model use the link below.**
 
-https://drive.google.com/file/d/1pF4S1SGk7Z_zntAAqtv44gE5OTMOCgtq/view?usp=sharing
+[Link to final model created].(https://drive.google.com/file/d/1pF4S1SGk7Z_zntAAqtv44gE5OTMOCgtq/view?usp=sharing/) 
 
 <br />
 
