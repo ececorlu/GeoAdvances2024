@@ -34,9 +34,6 @@ https://drive.google.com/file/d/1pF4S1SGk7Z_zntAAqtv44gE5OTMOCgtq/view?usp=shari
 <br />
 
 
-`<br>`
-
-
 **TL;DR**
 
 The article abstract is written below.
