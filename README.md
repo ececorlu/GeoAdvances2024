@@ -39,10 +39,13 @@ To create each revit file
 
 ***
 **TL;DR**
+
+
 The article abstract is written below.
 
-ABSTRACT: 
+**ABSTRACT:**
+ 
 
 Visibility is a significant parameter for defining, developing, and evaluating space in the AEC (Architecture, Engineering, and Construction) Industry. Therefore, visibility is considered when designing visually comfortable buildings. Visibility is also a significant parameter in building appraisal.  Therefore, in this study, visibility was examined through 3-dimensional (3D) isovists, which are thought to represent the human perception of vision. Visibility was examined regarding spatial openness and mathematically calculated “visual openness indexes” were developed for building valuation. The analysis area was selected in Istanbul, and the urban model was created by using Geographic Information System (GIS) data in Building Information Modelling (BIM) software.  Due to, economic reasons affecting different stakeholders in building valuation, it is necessary to create an accurate urban model. For this reason, in the study, the process of obtaining current and accurate GIS data covering the world from open sources is preferred. Then, the process of correctly transferring GIS data to BIM is explained. A sufficient urban model for analysis is created. To calculate the openness indexes, the dormitory in the Golden Horn was modeled in BIM, and different rooms' openness indexes were calculated. Some solutions have been presented to ensure the modeling process with large file sizes and in the calculation of visibility factors. To allow different AEC stakeholders to calculate these indexes, modeling, and calculation is done within BIM. Eventually, it was calculated how much the building users cognitively perceive the openness of the view, and a mathematical comparison of the different rooms' openness indexes was provided.
 
-KEYWORDS: Visibility, BIM-GIS Integration, 3D Isovists, Line of Sight Analysis, Visual Openness, Building Appraisal (Valuation)
+**KEYWORDS:** *Visibility*, *BIM-GIS Integration*, *3D Isovists*, *Line of Sight Analysis*, *Visual Openness*, *Building Appraisal (Valuation)*
