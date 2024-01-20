@@ -31,7 +31,8 @@ To create each revit file
 
 **To reach the final model use the link below.**
 
-Since the file size is above 25 KB model is shared in another source.
+Since the file size is above 25 MB, model is shared in another source.
+
 [Link to final model created](https://drive.google.com/file/d/1pF4S1SGk7Z_zntAAqtv44gE5OTMOCgtq/view?usp=sharing/) 
 
 <br />
