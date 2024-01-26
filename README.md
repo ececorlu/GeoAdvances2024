@@ -11,9 +11,9 @@ Revit files are used as BIM software. [.rvt] is the extension of this software. 
 
 **To create the Urban Model files from scratch**
 
-You need to create 3 different rvt file, since cadastral data is divided into 3 to reduce file sizes. OSM 1 is main research area, osm 2 and 3 are areas located near the research area. Each is created separately then using buildins move files according to their exact location.
+You need to create 3 different rvt file, since cadastral data is divided into 3 to reduce file sizes. OSM 1 is main research area, osm 2 and 3 are areas located near the research area. Each is created separately, and then by using the the same buildings' location, files are moved according to their exact location.
 
-To create each revit file
+To create each Revit file:
 
 1- Eyup_maim.rvt file is the template of BIM file. research area 1 can be created from this file. Eyup_template.rvt file is the template of osm2 and osm 3 files. research area 2 and 3 can be created on this file.  
 
