@@ -1,9 +1,10 @@
 # GeoAdvances2024
 ##  Visibility Analyses using BIM-GIS Integration
 
-The documents of the article "Visibility Analyses using BIM-GIS Integration" have been uploaded to this repository.
+This repository includes information about the article "Visibility Analyses using BIM-GIS Integration"
 
-In this article, in BIM GIS information is modeled. Then visibility analysis is done. The files are located in this repository.
+
+In this article, in BIM GIS information is modeled. Then models are combined and visibility analysis is done. The documents of the article "Visibility Analyses using BIM-GIS Integration" have been uploaded to this repository.
 
 Revit files are used as BIM software. [.rvt] is the extension of this software.  In Revit, Dynamo is a visual programming software allowing users to write code using nodes. [.dyn] is the extension of this software. In Revit, elements are defined as family, then this family can downloaded in different Revit files as an object. Family is created in .rfa extension. In this article, trees are created from the [Tree.rfa] family. OSM files provide cadastral data and are used in to create GIS in Revit using Dynamo. [.osm] is the extension of this file. Topography is created from USGS SRTM Data, which has tiff extension.
 <br />
